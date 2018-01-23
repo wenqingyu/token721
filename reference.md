@@ -8,7 +8,7 @@
 
 [EIP 821: Distinguishable Assets Registry ](https://github.com/ethereum/EIPs/issues/821)initiated at Dec.25, 2017
 
-
+### 
 
 ### Use case: rental
 
