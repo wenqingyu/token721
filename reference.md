@@ -14,3 +14,9 @@
 
 [A rentable contract for movie rental](https://github.com/pabloruiz55/Rentable) created at Nov. 2017
 
+
+
+Use case: Ownership
+
+ERC821 \(decentraland\): Distinguishable Assets Registry initiated at Jan. 2017
+
